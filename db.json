@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "id": "53bab902-e1d8-4732-95c3-36fd0f7b8d84",
+      "nombre": "Ruta11",
+      "sector": "Sur-Norte",
+      "salida": "Quitunbe",
+      "llegada": "Labrador",
+      "maquinista": "Juan",
+      "detalles": "Nueva-ruta"
+    },
+    {
+      "id": "fb970983-751d-40e2-ac27-dd27092ebef7",
+      "nombre": "Ruta11",
+      "sector": "Sur-Norte",
+      "salida": "Quitunbe",
+      "llegada": "Labrador",
+      "maquinista": "Juan",
+      "detalles": "123"
+    },
+    {
+      "id": "4b78ed92-34f7-460f-afb7-6f1b3b1836f3",
+      "nombre": "1254",
+      "sector": "Carolina",
+      "salida": "DosPuentes",
+      "llegada": "Carolina",
+      "maquinista": "Joel",
+      "detalles": "Ruta3"
+    }
+  ]
+}
